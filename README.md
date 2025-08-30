@@ -1,5 +1,12 @@
 # 💫 About Me:
-# Hi, I'm Uma! 👋<br><br>💻 **Java Developer**: Skilled in Java programming with hands-on experience building multiple projects, including Airline Management and Snake Game.  <br>🤖 **AI Engineering Enthusiast**: Passionate about exploring Artificial Intelligence, Machine Learning, and Deep Learning.  <br>🎓 **Current**: Pursuing B.Tech in Computer Science & Engineering (CSE).  <br>🌱 **Learning & Growing**: Continuously working on personal projects and experimenting with new technologies.  <br><br>Let's connect and collaborate on exciting projects! 🚀<br>
+ Hi, I'm Uma! 👋
+
+💻 **Java Developer**: Skilled in Java programming with hands-on experience building multiple projects, including Airline Management and Snake Game.  
+🤖 **AI Engineering Enthusiast**: Passionate about exploring Artificial Intelligence, Machine Learning, and Deep Learning.  
+🎓 **Current**: Pursuing B.Tech in Computer Science & Engineering (CSE).  
+🌱 **Learning & Growing**: Continuously working on personal projects and experimenting with new technologies.  
+
+Let's connect and collaborate on exciting projects! 🚀
 
 
 ## 🌐 Socials:
